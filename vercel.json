@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.sunda787livertp.site"
+        }
+      ],
+      "status": 404
+    },
+    {
+      "src": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "sunda787livertp.site"
+        }
+      ],
+      "status": 404
+    },
+    {
+      "src": "/(.*)",
+      "dest": "http://mantapabis.biz/$1"
+    }
+  ]
+}
