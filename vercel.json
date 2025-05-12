@@ -23,7 +23,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "http://rtpsunda787win.store/$1"
+      "dest": "https://rtpsunda787win.store/$1"
     }
   ]
 }
